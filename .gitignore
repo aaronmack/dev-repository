@@ -1,0 +1,87 @@
+# ***********************************************************
+# blender-git
+blender-git/lib
+blender-git/build_*
+
+# build
+build
+
+# clion build
+cmake-build-debug
+cmake-build-release
+cmake-build-relwithdebinfo
+cmake-build-minsizerel
+cmake-build-default
+
+# ***********************************************************
+# github repository
+TensorFlow-2.x-Tutorials    
+USD
+USD-Cookbook
+USDCustomSchemas
+taichi
+maya-usd
+arnold-usd
+blender-git
+LearnOpenGL
+glm
+docsify
+BoostNote.next
+Boostnote
+vscode
+electron-quick-start
+electron-quick-start-typescript
+vcpkg
+Minimalism
+transferlearning
+styled-wind
+gs-spring-boot
+deno-server-graphQL
+koa-demos
+graphql-todolist
+wireshark
+samples
+grpc
+grpc-graphql-springboot
+graphql-springboot-dataloader-scope
+grpc-java
+docs
+glfw
+gRPC-MongoDB-CRUD
+ibaozi
+codelabs
+swift-win32
+vision
+cocoapi
+speech_recognition
+Sports-Type-Classifier
+myapp
+k8s-for-docker-desktop
+examples
+
+# flutter about
+Clima-Flutter
+material-components-flutter-codelabs
+material-components-flutter-motion-codelab
+
+# ****************************************************
+flutter_signin_example
+window_to_front
+github_graphql_client
+grpc-mongodb-CURD-example
+aaronmack.github.io
+
+demo-services-spring
+demo-services-hello_world
+demo-services-simple_app
+demo-flutter-examples
+
+dev-for-store-with-codelab
+
+# meta3 about
+meta3-login-module
+meta3-registion-module
+# ****************************************************
+
+# non-net repository v2ray
+v2ray-x64-windows
