@@ -23,8 +23,6 @@ taichi
 maya-usd
 arnold-usd
 blender-git
-LearnOpenGL
-glm
 docsify
 BoostNote.next
 Boostnote
@@ -33,33 +31,46 @@ electron-quick-start
 electron-quick-start-typescript
 vcpkg
 Minimalism
-transferlearning
 styled-wind
-gs-spring-boot
-deno-server-graphQL
-koa-demos
-graphql-todolist
 wireshark
-samples
+swift-win32
+audacity
+
+# graphics
+glm
+glfw
+LearnOpenGL
+assimp
+
+# services
 grpc
 grpc-graphql-springboot
 graphql-springboot-dataloader-scope
 grpc-java
-docs
-glfw
 gRPC-MongoDB-CRUD
-ibaozi
-codelabs
-swift-win32
+gs-spring-boot
+deno-server-graphQL
+koa-demos
+graphql-todolist
+
+# kubernetes
+k8s-for-docker-desktop
+examples
+myapp
+
+# ai
+DeepSpeechRecognition
 vision
+docs
+transferlearning
 cocoapi
 speech_recognition
 Sports-Type-Classifier
-myapp
-k8s-for-docker-desktop
-examples
 
 # flutter about
+ibaozi
+codelabs
+samples
 Clima-Flutter
 material-components-flutter-codelabs
 material-components-flutter-motion-codelab
@@ -83,5 +94,5 @@ meta3-login-module
 meta3-registion-module
 # ****************************************************
 
-# non-net repository v2ray
+# non-net repository and ignore follow repository
 v2ray-x64-windows
