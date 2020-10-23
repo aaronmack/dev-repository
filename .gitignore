@@ -1,3 +1,6 @@
+# vscode
+.vscode
+
 # ***********************************************************
 # blender-git
 blender-git/lib
@@ -20,6 +23,7 @@ USD
 USD-Cookbook
 USDCustomSchemas
 taichi
+taichi-fork
 maya-usd
 arnold-usd
 blender-git
@@ -38,6 +42,7 @@ audacity
 tinyobjloader
 Spoon-Knife
 SikuliX1
+Centos7Note
 
 # graphics
 glm
@@ -45,6 +50,7 @@ glfw
 LearnOpenGL
 assimp
 Vulkan
+Vulkan-Python-Binding
 
 # services
 grpc
