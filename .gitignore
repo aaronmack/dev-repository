@@ -53,6 +53,7 @@ UE4_EOS_Plugin
 QBinder
 cpython
 DirectX-Graphics-Samples
+cuda-samples
 
 # hg
 Arnold
@@ -122,6 +123,7 @@ demo-learning-project
 demo-learning-module
 
 dev-for-store-with-codelab
+dev-nvidia-env
 
 MP-common
 open-dev-environment
