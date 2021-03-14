@@ -87,6 +87,8 @@ rez
 qtbase
 wine
 MetaLisp
+winget-cli
+you-get
 
 # hg
 Arnold
