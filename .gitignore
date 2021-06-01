@@ -93,6 +93,12 @@ stb
 UDRefl
 eigen
 hdospray
+ospray
+nvpro_core
+vk_mini_path_tracer
+
+# for nvpro
+bin_x64
 
 # hg
 Arnold
