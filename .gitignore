@@ -94,8 +94,13 @@ UDRefl
 eigen
 hdospray
 ospray
+
+# remote ignore
 nvpro_core
 vk_mini_path_tracer
+build_all
+
+# local ignore
 
 # for nvpro
 bin_x64
