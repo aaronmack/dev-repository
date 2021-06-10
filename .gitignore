@@ -101,6 +101,30 @@ vk_mini_path_tracer
 build_all
 optix_advanced_samples
 vk_raytracing_tutorial_KHR
+gl_cadscene_rendertechniques
+gl_commandlist_basic
+gl_dynamic_lod
+gl_multicast
+gl_occlusion_culling
+gl_path_rendering_CMYK
+gl_render_vk_direct_display
+gl_ssao
+gl_vk_bk3dthreaded
+gl_vk_chopper
+gl_vk_meshlet_cadscene
+gl_vk_raytrace_interop
+gl_vk_simple_interop
+gl_vk_supersampled
+gl_vk_threaded_cadscene
+nvml_enterprise_gpu_check
+vk_async_resources
+vk_denoise
+vk_device_generated_cmds
+vk_offline
+vk_order_independent_transparency
+vk_raytrace
+vk_shaded_gltfscene
+vk_toon_shader
 
 # local ignore
 
