@@ -134,6 +134,7 @@ Light-Propagation-Volumes
 abcview
 
 # local ignore
+lumberyard
 
 # for nvpro
 bin_x64
