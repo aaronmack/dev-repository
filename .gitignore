@@ -135,6 +135,7 @@ abcview
 
 # local ignore
 lumberyard
+GAMES102
 
 # for nvpro
 bin_x64
